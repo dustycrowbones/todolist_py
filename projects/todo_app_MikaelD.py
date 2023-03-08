@@ -70,7 +70,7 @@ class ToDoList:
 root = tk.Tk()
 
 #setting background (hey btw i drew that one myself, based off that HEX palette but wave theme and colors going backwards regarding buttons' colors setting to create higher contrast overall, since i myself have bad vision)
-bg_image = tk.PhotoImage(file="projects\window_bkg.png")
+bg_image = tk.PhotoImage(file="window_bkg.png")
 bg_label = tk.Label(root, image=bg_image)
 bg_label.place(x=0, y=0, relwidth=1, relheight=1)
 
