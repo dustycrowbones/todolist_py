@@ -30,3 +30,5 @@ Also special thanks to Roope for helping me and few other students understand Py
 
 
 All i can say, I tried my best and actually did thing, here we are. Hope this is alright for first project. 
+
+GitHub linkki: https://github.com/dustycrowbones/todolist_py
